@@ -1,10 +1,10 @@
 contact_links:
-  - name: Twilio Support
-    url: https://support.twilio.com
+  - name: Twilio SendGrid Support
+    url: https://support.sendgrid.com
     about: Get Support
   - name: Stack Overflow
-    url: https://stackoverflow.com/questions/tagged/twilio+python
+    url: https://stackoverflow.com/questions/tagged/sendgrid
     about: Ask questions on Stack Overflow
-  - name: Python Language Documentation
-    url: https://www.twilio.com/docs/libraries/reference/twilio-python/
+  - name: python Language Documentation
+    url: https://www.twilio.com/docs/libraries/reference/sendgrid-python/
     about: View Reference Documentation
