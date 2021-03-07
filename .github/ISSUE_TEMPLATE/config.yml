@@ -3,7 +3,7 @@ contact_links:
     url: https://support.sendgrid.com
     about: Get Support
   - name: Stack Overflow
-    url: f'https://stackoverflow.com/questions/tagged/sendgrid+python'
+    url: https://stackoverflow.com/questions/tagged/sendgrid+python
     about: Ask questions on Stack Overflow
   - name: python Language Documentation
     url: https://www.twilio.com/docs/libraries/reference/sendgrid-python/
