@@ -3,7 +3,7 @@ contact_links:
     url: https://support.twilio.com
     about: Get Support
   - name: Stack Overflow
-    url: https://stackoverflow.com/questions/tagged/twilio
+    url: https://stackoverflow.com/questions/tagged/twilio+python
     about: Ask questions on Stack Overflow
   - name: Python Language Documentation
     url: https://www.twilio.com/docs/libraries/reference/twilio-python/
