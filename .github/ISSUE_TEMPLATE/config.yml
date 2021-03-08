@@ -5,6 +5,6 @@ contact_links:
   - name: Stack Overflow
     url: https://stackoverflow.com/questions/tagged/sendgrid-python
     about: Ask questions on Stack Overflow
-  - name: python Documentation
+  - name: Documentation
     url: https://sendgrid.com/docs/for-developers/
     about: View Reference Documentation
