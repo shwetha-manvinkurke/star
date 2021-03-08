@@ -3,7 +3,7 @@ contact_links:
     url: https://twilio.com/help/contact
     about: Get Support
   - name: Stack Overflow
-    url: https://stackoverflow.com/questions/tagged/twilio+node
+    url: https://stackoverflow.com/questions/tagged/twilio-node
     about: Ask questions on Stack Overflow
   - name: node language Documentation
     url: https://www.twilio.com/docs/libraries/reference/twilio-node
