@@ -3,8 +3,8 @@ contact_links:
     url: https://twilio.com/help/contact
     about: Get Support
   - name: Stack Overflow
-    url: https://stackoverflow.com/questions/tagged/twilio+csharp
+    url: https://stackoverflow.com/questions/tagged/twilio+node
     about: Ask questions on Stack Overflow
-  - name: csharp language Documentation
-    url: https://www.twilio.com/docs/libraries/reference/twilio-csharp
+  - name: node language Documentation
+    url: https://www.twilio.com/docs/libraries/reference/twilio-node
     about: View Reference Documentation
